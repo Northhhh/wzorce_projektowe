@@ -7,14 +7,6 @@ namespace Zadanie5
         void Log(string message);
     }
 
-    public class LegacyLogger : ILegacyLogger
-    {
-        public void Log(string message)
-        {
-            Console.WriteLine(message);
-        }
-    }
-
     public interface INewLogger
     {
         void Log(string message);
