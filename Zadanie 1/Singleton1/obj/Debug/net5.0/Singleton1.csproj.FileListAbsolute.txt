@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\wzorce projektowe\Zadanie 1\Singleton1\obj\Debug\net5.0\Singleton1.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\wzorce projektowe\Zadanie 1\Singleton1\obj\Debug\net5.0\Singleton1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\wzorce projektowe\Zadanie 1\Singleton1\obj\Debug\net5.0\Singleton1.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\wzorce projektowe\Zadanie 1\Singleton1\obj\Debug\net5.0\Singleton1.AssemblyInfo.cs
+C:\Users\Student\source\repos\wzorce projektowe\Zadanie 1\Singleton1\obj\Debug\net5.0\Singleton1.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\wzorce projektowe\Zadanie 1\Singleton1\bin\Debug\net5.0\Singleton1.exe
+C:\Users\Student\source\repos\wzorce projektowe\Zadanie 1\Singleton1\bin\Debug\net5.0\Singleton1.deps.json
+C:\Users\Student\source\repos\wzorce projektowe\Zadanie 1\Singleton1\bin\Debug\net5.0\Singleton1.runtimeconfig.json
+C:\Users\Student\source\repos\wzorce projektowe\Zadanie 1\Singleton1\bin\Debug\net5.0\Singleton1.runtimeconfig.dev.json
+C:\Users\Student\source\repos\wzorce projektowe\Zadanie 1\Singleton1\bin\Debug\net5.0\Singleton1.dll
+C:\Users\Student\source\repos\wzorce projektowe\Zadanie 1\Singleton1\bin\Debug\net5.0\ref\Singleton1.dll
+C:\Users\Student\source\repos\wzorce projektowe\Zadanie 1\Singleton1\bin\Debug\net5.0\Singleton1.pdb
+C:\Users\Student\source\repos\wzorce projektowe\Zadanie 1\Singleton1\obj\Debug\net5.0\Singleton1.dll
+C:\Users\Student\source\repos\wzorce projektowe\Zadanie 1\Singleton1\obj\Debug\net5.0\ref\Singleton1.dll
+C:\Users\Student\source\repos\wzorce projektowe\Zadanie 1\Singleton1\obj\Debug\net5.0\Singleton1.pdb
+C:\Users\Student\source\repos\wzorce projektowe\Zadanie 1\Singleton1\obj\Debug\net5.0\Singleton1.genruntimeconfig.cache
