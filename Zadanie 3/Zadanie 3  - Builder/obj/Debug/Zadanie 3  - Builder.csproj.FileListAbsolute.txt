@@ -1,0 +1,7 @@
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 3\Zadanie 3  - Builder\obj\Debug\Zadanie 3  - Builder.csproj.AssemblyReference.cache
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 3\Zadanie 3  - Builder\obj\Debug\Zadanie 3  - Builder.csproj.CoreCompileInputs.cache
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 3\Zadanie 3  - Builder\bin\Debug\Zadanie 3  - Builder.exe.config
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 3\Zadanie 3  - Builder\bin\Debug\Zadanie 3  - Builder.exe
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 3\Zadanie 3  - Builder\bin\Debug\Zadanie 3  - Builder.pdb
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 3\Zadanie 3  - Builder\obj\Debug\Zadanie 3  - Builder.exe
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 3\Zadanie 3  - Builder\obj\Debug\Zadanie 3  - Builder.pdb
