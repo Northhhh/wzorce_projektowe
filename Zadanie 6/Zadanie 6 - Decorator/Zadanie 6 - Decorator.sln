@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 6 - Decorator", "Zadanie 6 - Decorator.csproj", "{CA5D255A-F0A1-41A4-BF8F-E34A76EE0A02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA5D255A-F0A1-41A4-BF8F-E34A76EE0A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA5D255A-F0A1-41A4-BF8F-E34A76EE0A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA5D255A-F0A1-41A4-BF8F-E34A76EE0A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA5D255A-F0A1-41A4-BF8F-E34A76EE0A02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {871F77D7-D090-4CFF-8642-FAAC90D1AAC4}
+	EndGlobalSection
+EndGlobal

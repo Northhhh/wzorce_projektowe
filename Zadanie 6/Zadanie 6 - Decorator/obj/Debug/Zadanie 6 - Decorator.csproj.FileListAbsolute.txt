@@ -1,0 +1,7 @@
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 6\Zadanie 6 - Decorator\bin\Debug\Zadanie 6 - Decorator.exe.config
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 6\Zadanie 6 - Decorator\bin\Debug\Zadanie 6 - Decorator.exe
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 6\Zadanie 6 - Decorator\bin\Debug\Zadanie 6 - Decorator.pdb
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 6\Zadanie 6 - Decorator\obj\Debug\Zadanie 6 - Decorator.csproj.AssemblyReference.cache
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 6\Zadanie 6 - Decorator\obj\Debug\Zadanie 6 - Decorator.csproj.CoreCompileInputs.cache
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 6\Zadanie 6 - Decorator\obj\Debug\Zadanie 6 - Decorator.exe
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 6\Zadanie 6 - Decorator\obj\Debug\Zadanie 6 - Decorator.pdb
