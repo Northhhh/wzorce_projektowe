@@ -1,0 +1,15 @@
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 10\bin\Debug\net8.0\Zadanie 10.exe
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 10\bin\Debug\net8.0\Zadanie 10.deps.json
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 10\bin\Debug\net8.0\Zadanie 10.runtimeconfig.json
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 10\bin\Debug\net8.0\Zadanie 10.dll
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 10\bin\Debug\net8.0\Zadanie 10.pdb
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 10\obj\Debug\net8.0\Zadanie 10.GeneratedMSBuildEditorConfig.editorconfig
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 10\obj\Debug\net8.0\Zadanie 10.AssemblyInfoInputs.cache
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 10\obj\Debug\net8.0\Zadanie 10.AssemblyInfo.cs
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 10\obj\Debug\net8.0\Zadanie 10.csproj.CoreCompileInputs.cache
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 10\obj\Debug\net8.0\Zadanie 10.sourcelink.json
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 10\obj\Debug\net8.0\Zadanie 10.dll
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 10\obj\Debug\net8.0\refint\Zadanie 10.dll
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 10\obj\Debug\net8.0\Zadanie 10.pdb
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 10\obj\Debug\net8.0\Zadanie 10.genruntimeconfig.cache
+D:\SystemFolders\Documents\GitHub\wzorce_projektowe\Zadanie 10\obj\Debug\net8.0\ref\Zadanie 10.dll
