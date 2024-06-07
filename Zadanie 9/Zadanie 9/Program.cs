@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Zadanie_9
 {
@@ -27,21 +28,6 @@ namespace Zadanie_9
             this.rainChance = rainChance;
             this.temperature = temperature;
         }
-
-        public dynamic GetData(string parameter)
-        {
-            var props = this.GetType().GetProperties();
-
-            foreach (var item in props)
-            {
-                if (item.Name.ToLower() == parameter.ToLower())
-                {
-                    return item.GetValue(this);
-                }
-            }
-
-            return null;
-        }
     }
 
     class ConcreteObserver : IObserver
@@ -59,7 +45,8 @@ namespace Zadanie_9
         {
             foreach(string parameter in parameters)
             {
-                var singleData = data.GetData(parameter);
+                var singleData = typeof(WeatherData).GetField(parameter).GetValue(data);
+
                 if (singleData != null)
                 {
                     Console.WriteLine(name + ": " + singleData);

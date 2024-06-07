@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SystemFolders\\Documents\\GitHub\\wzorce_projektowe\\Zadanie 9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B855AD02-1B09-4D98-895C-3CCB4063DAB0}|Zadanie 9\\Zadanie 9.csproj|d:\\systemfolders\\documents\\github\\wzorce_projektowe\\zadanie 9\\zadanie 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B855AD02-1B09-4D98-895C-3CCB4063DAB0}|Zadanie 9\\Zadanie 9.csproj|solutionrelative:zadanie 9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B855AD02-1B09-4D98-895C-3CCB4063DAB0}|Zadanie 9\\Zadanie 9.csproj|d:\\systemfolders\\documents\\github\\wzorce_projektowe\\zadanie 9\\zadanie 9\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{B855AD02-1B09-4D98-895C-3CCB4063DAB0}|Zadanie 9\\Zadanie 9.csproj|solutionrelative:zadanie 9\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B855AD02-1B09-4D98-895C-3CCB4063DAB0}|Zadanie 9\\Zadanie 9.csproj|d:\\systemfolders\\documents\\github\\wzorce_projektowe\\zadanie 9\\zadanie 9\\zadanie 9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B855AD02-1B09-4D98-895C-3CCB4063DAB0}|Zadanie 9\\Zadanie 9.csproj|solutionrelative:zadanie 9\\zadanie 9.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "D:\\SystemFolders\\Documents\\GitHub\\wzorce_projektowe\\Zadanie 9\\Zadanie 9\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Zadanie 9\\ClassDiagram1.cd",
+              "ToolTip": "D:\\SystemFolders\\Documents\\GitHub\\wzorce_projektowe\\Zadanie 9\\Zadanie 9\\ClassDiagram1.cd",
+              "RelativeToolTip": "Zadanie 9\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-06-07T14:38:34.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SystemFolders\\Documents\\GitHub\\wzorce_projektowe\\Zadanie 9\\Zadanie 9\\Program.cs",
+              "RelativeDocumentMoniker": "Zadanie 9\\Program.cs",
+              "ToolTip": "D:\\SystemFolders\\Documents\\GitHub\\wzorce_projektowe\\Zadanie 9\\Zadanie 9\\Program.cs",
+              "RelativeToolTip": "Zadanie 9\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T14:00:41.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Zadanie 9.csproj",
+              "DocumentMoniker": "D:\\SystemFolders\\Documents\\GitHub\\wzorce_projektowe\\Zadanie 9\\Zadanie 9\\Zadanie 9.csproj",
+              "RelativeDocumentMoniker": "Zadanie 9\\Zadanie 9.csproj",
+              "ToolTip": "D:\\SystemFolders\\Documents\\GitHub\\wzorce_projektowe\\Zadanie 9\\Zadanie 9\\Zadanie 9.csproj",
+              "RelativeToolTip": "Zadanie 9\\Zadanie 9.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-07T13:58:58.217Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
